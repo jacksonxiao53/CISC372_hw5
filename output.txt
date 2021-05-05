@@ -1,9 +1,9 @@
-Script started on 2021-05-05 18:29:31-04:00
-]0;xiaoj@br012:~/CISC372_hw5[xiaoj@r001 CISC372_hw5]$ ./image_omp pic1.jpg edge
+Script started on 2021-05-05 19:02:13-04:00
+]0;xiaoj@br012:~/CISC372_hw5[xiaoj@r004 CISC372_hw5]$ ./image_omp pic1.jpg edge
+Took 8 seconds
+]0;xiaoj@br012:~/CISC372_hw5[xiaoj@r004 CISC372_hw5]$ ./image_pthread pic1.jpg erdg[K[K[Kdge
 Took 7 seconds
-]0;xiaoj@br012:~/CISC372_hw5[xiaoj@r001 CISC372_hw5]$ ./image_pthread pic1.jpg edge
-Took 6 seconds
-]0;xiaoj@br012:~/CISC372_hw5[xiaoj@r001 CISC372_hw5]$ exit
+]0;xiaoj@br012:~/CISC372_hw5[xiaoj@r004 CISC372_hw5]$ exit
 exit
 
-Script done on 2021-05-05 18:30:16-04:00
+Script done on 2021-05-05 19:02:59-04:00
